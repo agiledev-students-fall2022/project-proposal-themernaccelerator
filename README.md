@@ -1,23 +1,18 @@
 # Project Proposal
+### Project title: PERSPECT1VE
 
-### What to include
-
-Your proposal must focus on the product's value proposition, including answers to the questions below. Keep it thorough but concise. If you are not clear on whether your writing is any good, consult with a friend.
-
-## Project title: PERSPECT1VE
-
-## Value Proposition
+### Value Proposition
 
 The place for you to share your space. 'PERSPECT1VE is what you make of it, create and upload your own portfolio, or simply browse others and find new things that interest you.
-## What Why?
+### What?
 
 I would like to build a website that is in essence a free hosting space for individuals to upload their own portfolios, or for visitors to browse portfolios and find something or someone they are insterested in.
 
-## Why?
+### Why?
 
 Tired of Youtube, GitHub, LinkedIn, yourown.com? Welcome to PERSPECT1VE, share all your talents, in one place. This website aims to allow individuals to upload customizable portfolios without having to host their own website, or use many other content creation platforms.
 
-## For whom?
+### For whom?
 
 This software is aimed at students, artists, content creators and employers. 
 
@@ -50,6 +45,6 @@ Additional Functionality may include:
 
 I believe achieving these goals to a reasonable standard will require a full semesters work for up to 5 programmers.
 
-## Collaboration
+### Collaboration
 
 Author: Rajan Bharaj
