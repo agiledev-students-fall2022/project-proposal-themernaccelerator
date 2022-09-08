@@ -1,9 +1,9 @@
 # Project Proposal
-### Project title: PERSPECT1VE
+## Project title: PERSPECT1VE
 
 ### Value Proposition
 
-The place for you to share your space. 'PERSPECT1VE is what you make of it, create and upload your own portfolio, or simply browse others and find new things that interest you.
+The place for you to share your space. PERSPECT1VE is what you make of it, create and upload your own portfolio, or simply browse others and find new things that interest you.
 ### What?
 
 I would like to build a website that is in essence a free hosting space for individuals to upload their own portfolios, or for visitors to browse portfolios and find something or someone they are insterested in.
@@ -21,8 +21,8 @@ This software is aimed at students, artists, content creators and employers.
 This website will achieve the goals specified above in the following ways:
 
 - A login system where users are prompted to create either a creator or spectator account
-- A spectator account will allow the user to view creator portfolios. 
-- A creator account will allow users to create, change and customize a unique porfolio based on predetermined forms of media. 
+- A spectator account will allow the user to view creator portfolios 
+- A creator account will allow users to create, change and customize a unique porfolio based on predetermined forms of media 
 
 Forms of media may include:
 - Art
@@ -35,7 +35,7 @@ Forms of media may include:
 In order to provide the functions listed above, the following tasks must be completed:
 
 1. Extensive front-end design so that user inputted/uploaded date is formatted and presented in a meaningful way
-2. A login system that is able to differentiate between users and provide functionality accordingly.
+2. A login system that is able to differentiate between users and provide functionality accordingly
 3. Safe storage of usernames, passwords and user provided data
 
 Additional Functionality may include:
