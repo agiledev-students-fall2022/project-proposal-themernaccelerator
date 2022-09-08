@@ -1,36 +1,54 @@
 # Project Proposal
 
-Write a proposal for a software product you would like to pursue for the majority of the semester. Make it obvious, interesting, and make the need for it sound convincing.
-
 ### What to include
 
 Your proposal must focus on the product's value proposition, including answers to the questions below. Keep it thorough but concise. If you are not clear on whether your writing is any good, consult with a friend.
 
-## Project title
-
-Give your project a nice title.
+## Project title: PERSPECT1VE
 
 ## Value Proposition
 
-## What and why?
+The place for you to share your space. 'PERSPECT1VE is what you make of it, create and upload your own portfolio, or simply browse others and find new things that interest you.
+## What Why?
 
-What software system would you like to build this semester, and why? Include a description of what problem the system would solve and why this is important.
+I would like to build a website that is in essence a free hosting space for individuals to upload their own portfolios, or for visitors to browse portfolios and find something or someone they are insterested in.
+
+## Why?
+
+Tired of Youtube, GitHub, LinkedIn, yourown.com? Welcome to PERSPECT1VE, share all your talents, in one place. This website aims to allow individuals to upload customizable portfolios without having to host their own website, or use many other content creation platforms.
 
 ## For whom?
 
-Who will this software be for? These people are your end-users or customers.
-
-Do not make software for imaginary users who do not exist - you must have real people as your initial end-users. Tell us who they are. For example, is it for a particular type of business, mass consumer, a campus office, a professor, or friends or family, or ... people just like you.
-
-Understanding who your end-users are, and ideally speaking with some along the way, will help you refine your designs to be suitable for your audience, and understand whether you have succeeded at the end or not.
+This software is aimed at students, artists, content creators and employers. 
 
 ## How?
 
-A description of what the system will do from an end-user's perspective. Be as complete as necessary to fully explain the system, but do not worry about technical implementation - this will be developed in subsequent work.
+This website will achieve the goals specified above in the following ways:
+
+- A login system where users are prompted to create either a creator or spectator account
+- A spectator account will allow the user to view creator portfolios. 
+- A creator account will allow users to create, change and customize a unique porfolio based on predetermined forms of media. 
+
+Forms of media may include:
+- Art
+- Text (including code)
+- Music
+- Video
 
 ## Scope
 
-A brief justification that the proposal is neither too easy nor too ambitions for a group of approximately 4 - 6 programmers to undertake in one semester.
+In order to provide the functions listed above, the following tasks must be completed:
+
+1. Extensive front-end design so that user inputted/uploaded date is formatted and presented in a meaningful way
+2. A login system that is able to differentiate between users and provide functionality accordingly.
+3. Safe storage of usernames, passwords and user provided data
+
+Additional Functionality may include:
+
+4. Ability for spectators to create a list of favourite portfolios
+5. Ability for creators and spectators to interact locally (within site)
+
+I believe achieving these goals to a reasonable standard will require a full semesters work for up to 5 programmers.
 
 ## Collaboration
 
