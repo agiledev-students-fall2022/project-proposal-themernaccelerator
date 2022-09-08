@@ -34,7 +34,7 @@ Forms of media may include:
 
 In order to provide the functions listed above, the following tasks must be completed:
 
-1. Extensive front-end design so that user inputted/uploaded date is formatted and presented in a meaningful way
+1. Extensive front-end design so that user inputted/uploaded data is formatted and presented in a meaningful way
 2. A login system that is able to differentiate between users and provide functionality accordingly
 3. Safe storage of usernames, passwords and user provided data
 
